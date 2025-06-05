@@ -1,4 +1,3 @@
-
 **Hello! I’m Sijan Mahmud, a passionate AI Engineer with nearly one year of hands-on experience transforming data into intelligent, production-ready solutions.**
 
 I specialize in building AI-driven systems that solve real-world problems — from data preprocessing and model training to deploying intelligent apps, chatbots, and autonomous AI agents.
@@ -52,6 +51,13 @@ Whether you need to:
 🤖 Deploy a GenAI **AI Agent** or **Chatbot**  
 🖥️ Launch a vision or ML app using **FastAPI**  
 — I’m here to help you turn ideas into intelligent, scalable systems.
+
+---
+
+### 🌐 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/SijanMahmudAI)  
+🐦 [X (Twitter)](https://twitter.com/SijanMahmudAI)
 
 ---
 
