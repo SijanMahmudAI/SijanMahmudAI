@@ -26,7 +26,7 @@
 
 ## 🚀 Let's Collaborate  
 📩 I'm open to freelance, collab, or remote opportunities.  
-📬 DM me on LinkedIn or drop a message!
+📬 DM me on [LinkedIn](https://www.linkedin.com/in/SijanMahmudAI) or [X (Twitter)](https://twitter.com/SijanMahmudAI)!
 
 ---
 
