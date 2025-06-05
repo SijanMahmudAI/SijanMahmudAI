@@ -30,4 +30,4 @@
 
 ---
 
-🌐 **[View My Full Bio in Markdown](./sijan_mahmud-ai-engineer-bio.md)**  
+🌐 **[View My Full Bio in Markdown](./sijan_mahmud_ai_engineer_bio.md)**  
